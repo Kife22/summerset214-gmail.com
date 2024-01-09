@@ -6,7 +6,7 @@ public class Test5 {
         int x = 1;
         while (x <= 9) {
             int result = x * i;
-            System.out.println( i + "*" + x + "=" + result );
+            System.out.println( i + " * " + x + " = " + result );
             x++;
 
         }
